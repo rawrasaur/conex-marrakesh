@@ -1,0 +1,64 @@
+signed: [
+  ["wraps" 0x0]
+  ["version" 0x0]
+  ["typ" "author"]
+  [
+    "resources"
+    [
+      [
+        ["typ" "key"]
+        ["name" "rawrasaur"]
+        ["index" 0x1]
+        ["digest" ["SHA256" "im/1fgdBSAZBpFepLY8WgfQi5sEXk2Hc0IXZ4I/B3Qk="]]
+      ]
+      [
+        ["typ" "account"]
+        ["name" "rawrasaur"]
+        ["index" 0x2]
+        ["digest" ["SHA256" "x63L5G2NXz3YBtOTN+iQGnY06PXKSORBGOHuAfDPERA="]]
+      ]
+      [
+        ["typ" "account"]
+        ["name" "rawrasaur"]
+        ["index" 0x3]
+        ["digest" ["SHA256" "EZ+KKQkM/hjZuPxghdceGY8msF+C4gbCKRDWLuXTPGA="]]
+      ]
+    ]
+  ]
+  ["name" "rawrasaur"]
+  ["created" 0x58BEDB2A]
+  ["counter" 0x1]
+]
+
+keys: [
+  [
+    [
+      "RSA"
+      """
+-----BEGIN PUBLIC KEY-----
+MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAtIIXBQl4rqDUdoQQ8Mng
+p2Bzn/mhu0mNy6quXbiihihV10oukGkx6WL2bZArFoM5VkwStoDy3BBlfVWT+e+s
+txvMW4ivZ12iEm+5jUUKGMy9Ajw3t1vOAVIbh/xISU7Ery2E/235UOp+M6rDVtXx
+HsrQlXmuHMCLqnzoF4fyR7eJOei6P7hit+bCfpHsm7ec3WFBHLTi2CujvXg/G5XW
+3w3lckITSXm/MCwFSV2ODBvkk7aXwHNHElOMLXJAVm6+sPv4gr4VA5687JroB2w4
+W9ALg9R5Kmw6kHloDd8czp5QeUC1poCdCOQE5fs59487AmhUyt/i2gflIvY7sbOO
+pdzVcWKRGK+bwrBqUftAVFx0qQqQLIql24GwlpH6pKH3uCdrfND1sQ7oXEJelOZe
+KpnklXx+SYgHh2bozy+vTgvjvCQDMT7KoUNrOeOLy7WvIDqLPTQ+ost0mhsUxrmI
+nnJyfQ6LQxwSu0w6VVGfM17i/gpbu9BHC1EHbiQyZpaTa77wmtXvmOovVXSRqHa5
+KkgzcXdXkp7WC7u7XKZqR+ykile+/lVTFqpioPLOazp1rDeiLds7hzCVLM4HmyIA
+cI5Fss87hDOcAh63Y89C1S/XynwY7j0DBcbkiMJijUxkmeLCSj5zEHo7lAyng2NO
+oCrdy5R/BA8Sl5h11ofr7YcCAwEAAQ==
+-----END PUBLIC KEY-----"""
+      0x58BEDB2A
+    ]
+    [
+      0x58BEDB2A
+      "RSA-PSS-SHA256"
+      "NczAzEffUzBA4zt7Dd3/9q4eQ3VgSifMlsjTNBpwt04XUMv+wDMm1/WzGcoef7YfNJFYwqZOwxyrfsDB6MWmxdWCW5vREjc+r6vCYelXqxuLgqjGpXw0vvrdTa5xNA2D/buUunUS+2MmBSagEQjJljYYxMsH4kf7L/hU2YbnVC283wkpsVCFPeV9QXyvtUz6w3G3a9ph92ptgY0tlFhWRJ2Uc7jB+wfJVUshJnQuJFp0wzBWswZ8Uw1FqDnOu2mgb9R6aFpd19jBdqraJQ7AUFIUKkagsoMllQBZKi+mgnriNFXL5AD9qqBB4fGVi/cs3ADr/rxgfUeT4kwUjPH+YpPR53Oru2FOnBHn5ZuS/ntjL1/Pcjg7a+T02/PyT6c0kmJ+L9kgKxr+gx5BeyLBfs2jctD1lNt6ZsQLYkfEOOX9MnlWQx5sWLr7p6p7aEvyQwawdqV5l+UABVYlPlx5YZmcpnTC9q8KpDg/lqeOn4BgEEVxw+OyeW5FL91adnpe6xpfPITS+IVCDWu+MH8E5K3w9Rw4vwyTbTDSfVRJblc7XpW5848bW2JZ/W9wyYWpqugptDfSUXpMtWnclH1DDLkXuOLKVrMLVwmI8vH4YhNSyW0TetKzqkIRqSt9/2pIymx1iqip5VdGpNHLOQ7EmtmXmKCFiFBhB56PNvbLn98="
+    ]
+  ]
+]
+accounts: [
+  ["github" "rawrasaur"]
+  ["email" "aurora@aventine.se"]
+]
